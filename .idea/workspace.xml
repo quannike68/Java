@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65b9678c-fe08-4a5f-a30e-7506721c9863" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jKNK7ePblXozA3JoqxE9NnEZ0t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Circle.executor": "Run",
+    "Application.FileChannelExample.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.RunThread.executor": "Run",
+    "Application.ShapeGUI.executor": "Run",
+    "Application.ShapeTest.executor": "Run",
+    "Application.ShapeWriter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DUC/IdeaProjects/LearnJava/mysql-connector-j-9.0.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/DUC/IdeaProjects/LearnJava/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65b9678c-fe08-4a5f-a30e-7506721c9863" name="Changes" comment="" />
+      <created>1721131746787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721131746787</updated>
+      <workItem from="1721131747900" duration="129000" />
+      <workItem from="1721228953108" duration="341000" />
+      <workItem from="1721271135533" duration="1985000" />
+      <workItem from="1721444278878" duration="172000" />
+      <workItem from="1721444472830" duration="5367000" />
+      <workItem from="1721878984684" duration="2993000" />
+      <workItem from="1721882022605" duration="2245000" />
+      <workItem from="1722308706790" duration="2285000" />
+      <workItem from="1722484210584" duration="4325000" />
+      <workItem from="1722578617842" duration="25000" />
+      <workItem from="1722659337979" duration="151000" />
+      <workItem from="1722659512906" duration="1344000" />
+      <workItem from="1722915562897" duration="4308000" />
+      <workItem from="1723088230808" duration="5021000" />
+      <workItem from="1723519961554" duration="5601000" />
+      <workItem from="1723555248287" duration="7106000" />
+      <workItem from="1723620866092" duration="108000" />
+      <workItem from="1723692711099" duration="5476000" />
+      <workItem from="1723863482482" duration="2498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
